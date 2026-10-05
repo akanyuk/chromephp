@@ -1,20 +1,20 @@
 {
-    "name": "ccampbell/chromephp",
+    "name": "akanyuk/chromephp",
     "type": "library",
-    "description": "Log variables to the Chrome console (via Chrome Logger Google Chrome extension).",
+    "description": "Fork of ccampbell/chromephp with PHP >=8.2 supported. Log variables to the Chrome console (via Chrome Logger Google Chrome extension).",
     "keywords": ["log","logging"],
-    "homepage": "http://github.com/ccampbell/chromephp",
+    "homepage": "http://github.com/akanyuk/chromephp",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Craig Campbell",
-            "email": "iamcraigcampbell@gmail.com",
-            "homepage": "http://craig.is",
-            "role": "Developer"
+          "name": "Andrey Marinov",
+          "email": "aka.nyuk@gmail.com",
+          "homepage": "http://nyuk.retropc.ru",
+          "role": "Developer"
         }
     ],
     "require": {
-        "php": ">=5.0.0"
+        "php": ">=5.3.0"
     },
     "autoload": {
         "psr-0": {
